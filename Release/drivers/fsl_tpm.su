@@ -1,0 +1,11 @@
+fsl_tpm.c:83:6:TPM_Init	12	static
+fsl_tpm.c:121:6:TPM_Deinit	0	static
+fsl_tpm.c:131:6:TPM_GetDefaultConfig	0	static
+fsl_tpm.c:160:10:TPM_SetupPwm	32	static
+fsl_tpm.c:364:6:TPM_UpdatePwmDutycycle	16	static
+fsl_tpm.c:414:6:TPM_UpdateChnlEdgeLevelSelect	8	static
+fsl_tpm.c:444:6:TPM_SetupInputCapture	0	static
+fsl_tpm.c:489:6:TPM_SetupOutputCompare	8	static
+fsl_tpm.c:695:6:TPM_EnableInterrupts	16	static
+fsl_tpm.c:718:6:TPM_DisableInterrupts	16	static
+fsl_tpm.c:741:10:TPM_GetEnabledInterrupts	16	static

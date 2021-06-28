@@ -1,0 +1,3 @@
+bad.c:12:6:SysTick_Handler	0	static
+bad.c:23:6:resizePixels	48	static
+bad.c:49:6:bad_main	48	static

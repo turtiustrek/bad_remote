@@ -1,0 +1,6 @@
+fsl_gpio.c:73:6:GPIO_PinInit	0	static
+fsl_gpio.c:88:10:GPIO_GetPinsInterruptFlags	0	static
+fsl_gpio.c:97:6:GPIO_ClearPinsInterruptFlags	0	static
+fsl_gpio.c:154:6:FGPIO_PinInit	0	static
+fsl_gpio.c:169:10:FGPIO_GetPinsInterruptFlags	0	static
+fsl_gpio.c:178:6:FGPIO_ClearPinsInterruptFlags	0	static

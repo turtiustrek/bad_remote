@@ -1,0 +1,5 @@
+lcd.c:22:13:lcd_write_command	16	static
+lcd.c:176:6:lcd_init	24	static
+lcd.c:183:6:lcd_powerdown	8	static
+lcd.c:199:6:lcd_send_data	24	static
+lcd.c:264:6:lcd_show_logo	0	static
